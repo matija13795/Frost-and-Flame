@@ -2,7 +2,8 @@
 
 ## Description
 This is a two-player puzzle game developed by Ayyub Shaffy and Matija Susic as a final project for our Introduction to Computer Science class. The game features sprite-based graphics and requires coordination between two players to solve puzzles and progress through the level.
-Game Features
+
+## Game Features
 
 Two playable characters with distinct abilities
 Cooperative gameplay requiring coordination between players
