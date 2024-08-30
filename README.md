@@ -19,6 +19,6 @@ Player 2 (Ice Yeti): Arrow keys for movement
 ## Technical Implementation
 The game is built using object-oriented programming principles, with classes for various entities in the game environment, including:
 
-• Characters (Fire Mage and Ice Yeti)\n
-• Platforms\n
-• Other interactive elements
+- Characters (Fire Mage and Ice Yeti)
+- Platforms
+- Other interactive elements
