@@ -25,5 +25,7 @@ The game is built using object-oriented programming principles in Processing (Py
 
 ## Game Screenshots
 ![list create](game_screenshot1.PNG)
+
 ![list](game_screenshot.PNG)
+
 ![list](game_screenshot2.png)
