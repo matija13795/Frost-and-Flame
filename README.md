@@ -1,4 +1,4 @@
-# Frost-and-Flame
+# Frost and Flame
 
 ## Description
 This is a two-player puzzle game developed by Ayyub Shaffy and Matija Susic as a final project for our Introduction to Computer Science class. The game features sprite-based graphics and requires coordination between two players to solve puzzles and progress through the level.
@@ -17,7 +17,7 @@ This is a two-player puzzle game developed by Ayyub Shaffy and Matija Susic as a
 - Player 2 (Ice Yeti): Arrow keys for movement, l for special ability
 
 ## Technical Implementation
-The game is built using object-oriented programming principles in Processing (Python mode), with classes for various entities in the game environment, including:
+The game is built using object-oriented programming principles in Processing (Python), with classes for various entities in the game environment, including:
 
 - Characters (Fire Mage and Ice Yeti)
 - Platforms
