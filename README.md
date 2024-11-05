@@ -17,12 +17,13 @@ This is a two-player puzzle game developed by Ayyub Shaffy and Matija Susic as a
 - Player 2 (Ice Yeti): Arrow keys for movement, l for special ability
 
 ## Technical Implementation
-The game is built using object-oriented programming principles in Python, with classes for various entities in the game environment, including:
+The game is built using object-oriented programming principles in Processing (Python mode), with classes for various entities in the game environment, including:
 
 - Characters (Fire Mage and Ice Yeti)
 - Platforms
 - Other interactive elements
 
 ## Game Screenshots
-![list create](game screenshot.PNG)
-![list](documentation/vote-by-political-group.png)
+![list create](game_screenshot1.PNG)
+![list](game_screenshot.PNG)
+![list](game_screenshot2.png)
